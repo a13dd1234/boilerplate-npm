@@ -2,6 +2,10 @@
   "name": "fcc-learn-npm-package-json",
   "author": "A13 DD1234",
   "description": "A project that just for awesome fun",
+  "keywords": [
+    "a13dd1234",
+    "just for fun"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
